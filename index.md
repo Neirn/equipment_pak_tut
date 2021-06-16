@@ -1,8 +1,8 @@
 ## Blender to ML64 Equipment Pack Tutorial
 
-From Blender to OoTO 3.x.x: Weapon pak tutorial
+From Blender to an OoTO 3.x.x Equipment Pak
 
-This tutorial will walk you through the process of importing a custom equipment model from Blender to OoTO's costume manager.
+This tutorial aims to walk you through the process of importing a custom equipment model from Blender to OoTO's costume manager.
 
 ### Needed software:
 [Blender](https://www.blender.org/)  
