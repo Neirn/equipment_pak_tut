@@ -4,6 +4,8 @@ From Blender to an OoTO 3.x.x Equipment Pak
 
 This tutorial aims to walk you through the process of importing a custom equipment model from Blender to OoTO's costume manager.
 
+If the images seem too small, feel free to check out this tutorial on [GitHub](https://github.com/Neirn/equipment_pak_tut/blob/gh-pages/index.md), or just open the image in a new tab.
+
 ### Needed software:
 [Blender](https://www.blender.org/)  
 [zzconvert](http://www.z64.me/tools/zzconvert)/[z64convert](http://www.z64.me/tools/z64convert)  
