@@ -34,6 +34,8 @@ To make things easier to see, I hid everything except for the sword and skeleton
 
 ![Blender_Objex_export_UI](https://github.com/Neirn/equipment_pak_tut/raw/main/img/blender_objex_export_ui.png)
 
+## ZOBJ Conversion
+
 Next, you're going to want to export with the objex plugin. We are going to make one very important change to the settings. You see that box in the sidebar that says "Selection Only"? Check it.
 
 ![Blender Objex Selection Only Checkbox](https://github.com/Neirn/equipment_pak_tut/raw/main/img/blender_selection_only.PNG)
@@ -46,11 +48,13 @@ Now, open up your copy of z\*convert and use the same options that you would use
 
 ![zzconvert export options](https://github.com/Neirn/equipment_pak_tut/raw/main/img/zzconvert_export_options.png)
 
-After converting your objex to a zobj, as one last sanity check, look at the output window. The only display lists you should see are the ones for your custom ones you added as well as one for the limb they were attached to.
+After converting your objex to a zobj, as one last sanity check, look at the output window. The only display lists you should see are the ones for your custom equipment as well as one for the limb they're attached to.
 
 ![zzconvert_output](https://github.com/Neirn/equipment_pak_tut/raw/main/img/zzconvert_output.png)
 
 If everything looks good and your zobj seems to be a reasonable size, then we can move on to injecting the model.
+
+## Testing and Pak Conversion
 
 Open up ML64 with the equipment tester and OoTO enabled. Go ahead and open a save file that has the equipment you're replacing.
 
