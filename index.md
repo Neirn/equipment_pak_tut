@@ -30,7 +30,7 @@ So, what we're going to want to do is select ONLY the skeleton and the equipment
 
 ![Blender Displaying Selection of Just Skeleton and Sword](https://github.com/Neirn/equipment_pak_tut/raw/main/img/blender_selection.png)
 
-To make things easier to see, I hid everything except for the sword and skeleton. As you can see, they are the only things selected in the scene, with the skeleton as the active selection.
+To make things easier to see, I hid everything except for the sword and skeleton. As you can see, they are the only things selected in the scene, with the skeleton as the active selection (i.e. select the skeleton last like you would for a normal playas).
 
 ![Blender_Objex_export_UI](https://github.com/Neirn/equipment_pak_tut/raw/main/img/blender_objex_export_ui.png)
 
