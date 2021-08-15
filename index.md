@@ -28,7 +28,7 @@ As can be seen in this picture, my custom sword is already in position, appropri
 
 Then, continue to export like you would any other playas.
 
-Now, open up your copy of z\*convert and use the same options that you would use if you were making a regular playas. These are my settings for example.
+Now, open up your copy of z\*convert and use the same options that you would use if you were making a regular playas. Do NOT run the zobj through z\*playas!
 
 ## Testing and Pak Conversion
 
